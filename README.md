@@ -6,4 +6,4 @@
 
 ## Histogram 
 
-![Histogram](images/histogram-example.jpg)
+![Histogram](images/histogram-example.jpeg)
