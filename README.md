@@ -193,6 +193,9 @@ df['PassFail'] = (df['GradeClass'] < 3).astype(int)  # 1=Pass, 0=Fail
 
 **Imbalance Noted**: Used **stratified sampling** in train-test split to preserve the natural distribution from the sourced data.
 
+<img width="790" height="590" alt="image" src="https://github.com/user-attachments/assets/31a868fb-f069-4e3b-9f6f-e81445478170" />
+
+
 ---
 
 ### 3. Feature Selection: Preventing Target Leakage
