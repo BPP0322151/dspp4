@@ -296,6 +296,8 @@ model_scaled.fit(X_train_scaled, y_train)
 
 ---
 
+# Results & Performance
+
 ### Evaluation Metrics
 
 #### Why Multiple Metrics?
