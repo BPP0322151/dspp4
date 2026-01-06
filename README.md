@@ -7,7 +7,7 @@
 ## Table of Contents
 
 - [Project Overview](#project-overview)
-- [Business Problem](#business-problem)
+- [Business Problem](#problem-statement)
 - [Technical Architecture](#technical-architecture)
 - [Installation & Setup](#installation--setup)
 - [Data Engineering Approach](#data-engineering-approach)
