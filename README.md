@@ -129,7 +129,6 @@ dspp/
 ├── Student_performance_data _.csv      # Raw dataset
 ├── requirements.txt                    # Python dependencies
 ├── README.md                           # This file
-├── visualisations/
 ```
 
 ---
