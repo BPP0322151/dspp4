@@ -9,19 +9,19 @@
 
 ## 📋 Table of Contents
 
-- [Project Overview](#-project-overview)
-- [Business Problem](#-business-problem)
-- [Technical Architecture](#-technical-architecture)
-- [Installation & Setup](#-installation--setup)
-- [Data Engineering Approach](#-data-engineering-approach)
-- [Model Development & Rationale](#-model-development--rationale)
-- [Results & Performance](#-results--performance)
-- [Key Insights & Business Value](#-key-insights-&-business-value)
-- [Future Improvements](#-future-improvements)
+- [Project Overview](project-overview)
+- [Business Problem](business-problem)
+- [Technical Architecture](technical-architecture)
+- [Installation & Setup](installation--setup)
+- [Data Engineering Approach](data-engineering-approach)
+- [Model Development & Rationale](model-development--rationale)
+- [Results & Performance](results--performance)
+- [Key Insights & Business Value](key-insights-&-business-value)
+- [Future Improvements](future-improvements)
 
 ---
 
-## 🎯 Project Overview
+## Project Overview
 
 This project demonstrates my approach on end-to-end data science methodology by developing a **binary classification model** to predict whether students will pass (Grades A-C) or fail (Grades D-F) based on 12 behavioral and demographic features.
 
@@ -40,7 +40,7 @@ This project demonstrates my approach on end-to-end data science methodology by 
 
 ---
 
-## 💼 Problem Statement
+## Problem Statement
 
 ### Challenge
 Educational institutions often adopt **reactive** rather than **proactive** approaches to student support, resulting in interventions occurring only after academic performance via grades. This results in:
@@ -62,7 +62,7 @@ A **logistic regression classifier** that:
 
 ---
 
-## 🏗️ Technical Architecture
+## Technical Architecture
 
 ### Why Python?
 
@@ -93,7 +93,7 @@ Python is an indutsty standard tool with many packages to deal with data science
 
 ---
 
-## ⚙️ Installation & Setup
+## Installation & Setup
 
 ### Prerequisites
 ```bash
@@ -137,7 +137,7 @@ dspp/
 
 ---
 
-## 🔧 Data Engineering Approach
+## Data Engineering Approach
 
 ### 1. Data Quality Assessment (Gov UK Framework)
 
@@ -267,7 +267,7 @@ X_test_scaled = scaler.transform(X_test)  # Apply train parameters
 
 ---
 
-## 🧠 Model Development & Rationale
+## Model Development & Rationale
 
 ### Exploratory Data Analysis (EDA)
 
@@ -391,7 +391,7 @@ ROC-AUC:           0.93   # Excellent discrimination (0.5 = random guessing, 1.0
 
 ---
 
-## 🚀 Future Improvements
+## Future Improvements
 
 ### Model Enhancements
 - **Ensemble Methods**: Compare with Random Forest and XGBoost to evaluate accuracy gains while maintaining interpretability
