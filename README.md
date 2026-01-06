@@ -1,4 +1,4 @@
-# 🎓 Student Performance Prediction: Binary Classification with Logistic Regression
+# Student Performance Prediction: Binary Classification with Logistic Regression
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 [![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1.3%2B-orange.svg)](https://scikit-learn.org/)
@@ -7,7 +7,7 @@
 
 ---
 
-## 📋 Table of Contents
+## Table of Contents
 
 - [Project Overview](project-overview)
 - [Business Problem](business-problem)
