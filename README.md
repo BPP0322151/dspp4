@@ -153,7 +153,7 @@ Before any modeling, I conducted a **data quality audit** against the **UK Gover
 | **Consistency** | Unique StudentIDs | 100% unique | No duplicate IDs via `.value_counts()` |
 | **Uniqueness** | No duplicate rows | 100% unique records | `.duplicated().sum() == 0` |
 
-**Outcome**: ** Perfect Data Quality** - Meaning no imputation or outlier treatment required & I could proceeded directly to feature engineering.
+**Outcome**: **Perfect Data Quality** - Meaning no imputation or outlier treatment required & I could proceeded directly to feature engineering.
 
 #### Code Example: Completeness Check
 ```python
