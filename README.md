@@ -16,7 +16,7 @@
 - [Data Engineering Approach](#-data-engineering-approach)
 - [Model Development & Rationale](#-model-development--rationale)
 - [Results & Performance](#-results--performance)
-- [Key Insights & Business Value](#-key-insights--business-value)
+- [Key Insights & Business Value](#-key-insights-&-business-value)
 - [Future Improvements](#-future-improvements)
 
 ---
